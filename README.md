@@ -8,7 +8,7 @@
       <a>install pygame</a>
     </li>
     <li>
-      <a>run!</a>
+      <a>run ไฟล์ main</a>
     </li>
   </ol>
  
