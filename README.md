@@ -9,7 +9,9 @@
     </li>
     <li>
       <a>run ไฟล์ main</a>
+      <a>F G J K เพื่อกดปุ่ม</a>
     </li>
+
   </ol>
  
  <details>
