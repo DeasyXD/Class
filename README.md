@@ -1,4 +1,4 @@
-# Class M.4/1
+# Class M.4/1 F G J K เพื่อกดปุ่ม
   <summary>Installation</summary>
   <ol>
     <li>
@@ -8,8 +8,7 @@
       <a>install pygame</a>
     </li>
     <li>
-      <a>run ไฟล์ main</a>
-      <a>F G J K เพื่อกดปุ่ม</a>
+      <a>run ไฟล์ main</a> 
     </li>
 
   </ol>
